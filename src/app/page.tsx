@@ -11,7 +11,7 @@ export default function Home() {
           <h1 className="title-font font-bold sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Fighting for Trans Liberation!
           </h1>
           <p className="mb-8 leading-relaxed">
-            <span className="font-bold">Trans Resistance Action Committee</span> is fighting for the liberation of marginalized genders
+            <span className="font-bold font-geist-sans">Trans Resistance Action Committee</span> is fighting for the liberation of marginalized genders
             through action and community building. We seek to build a world where trans, non-binary, and gender-nonconforming people
             can safely and confidently live and thrive as their true, authentic selves; where the community, support, and resources
             that they need and want are easily accessible and reliable.
