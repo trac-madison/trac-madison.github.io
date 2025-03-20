@@ -9,8 +9,8 @@ export default function Header() {
           <span className="ml-3 text-xl">TRAC Madison</span>
         </a>
         <nav className="text-gray-100 md:ml-auto flex flex-wrap items-center text-base justify-center">
-          <a className="mr-5 hover:text-gray-300 cursor-pointer">Home</a>
-          <a className="mr-5 hover:text-gray-300 cursor-pointer">About</a>
+          <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/">Home</a>
+          <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/about">About</a>
           <a className={"mr-5 hover:text-gray-300 cursor-pointer"}>Get Involved</a>
           <a className="mr-5 hover:text-gray-300 cursor-pointer">Resources</a>
         </nav>
