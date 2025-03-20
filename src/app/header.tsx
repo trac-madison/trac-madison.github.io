@@ -11,7 +11,7 @@ export default function Header() {
         <nav className="text-gray-100 md:ml-auto flex flex-wrap items-center text-base justify-center">
           <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/">Home</a>
           <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/about">About</a>
-          <a className={"mr-5 hover:text-gray-300 cursor-pointer"}>Get Involved</a>
+          <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/join">Get Involved</a>
           <a className="mr-5 hover:text-gray-300 cursor-pointer">Resources</a>
         </nav>
       </div>
