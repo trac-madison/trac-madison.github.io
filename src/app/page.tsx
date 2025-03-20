@@ -16,7 +16,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center">
             <a href="/join"><button className="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">Get Involved!</button></a>
-            <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Community Resources</button>
+            <a href="/resources"><button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Community Resources</button></a>
           </div>
         </div>
       </div>
