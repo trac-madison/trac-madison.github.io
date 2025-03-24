@@ -1,0 +1,12 @@
+div.fc {
+  width: 100%;
+}
+
+div.fc-event-title {
+  text-wrap: balance;
+  text-align: center;
+}
+
+a.fc-event {
+  border-color: transparent;
+}

@@ -1,3 +1,5 @@
+import Calendar from "./calendar-wrapper";
+
 export default function Join() {
   return (
     <section className="text-gray-600 body-font flex flex-grow">
@@ -14,6 +16,9 @@ export default function Join() {
             {" "}<a className="text-emerald-700 hover:text-emerald-800" href="https://www.instagram.com/madisontrac/">Instagram</a>{" "}
             to get in contact sooner!
           </p>
+          <h1 className="title-font font-bold sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Events Calendar
+          </h1>
+          <Calendar/>
         </div>
       </div>
     </section>
