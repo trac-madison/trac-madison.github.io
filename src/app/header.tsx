@@ -12,7 +12,7 @@ export default function Header() {
           <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/">Home</a>
           <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/about">About</a>
           <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/join">Get Involved</a>
-          <a className="mr-5 hover:text-gray-300 cursor-pointer">Resources</a>
+          <a className="mr-5 hover:text-gray-300 cursor-pointer" href="/resources">Resources</a>
         </nav>
       </div>
     </header>
