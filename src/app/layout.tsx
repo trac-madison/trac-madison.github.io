@@ -3,6 +3,8 @@ import "./globals.css";
 import Header from "./header";
 import Footer from "./footer";
 import { GeistSans, TitanOne } from "./fonts";
+import Head from "next/head";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "TRAC Madison",
@@ -16,6 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+        <Script async src="https://www.instagram.com/embed.js"></Script>
       <body
         className={`${GeistSans.variable} ${TitanOne.variable} antialiased flex flex-col h-screen justify-between`}
       >

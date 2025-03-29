@@ -1,7 +1,9 @@
+import InstagramEmbed from "./instagram_embed";
+
 export default function Home() {
   return (
     <section className="text-gray-600 body-font flex flex-grow">
-      <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
+      <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-start">
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
           <img className="object-cover object-center rounded" alt="hero" src="/pride-flag.jpg"/>
         </div>
@@ -18,6 +20,9 @@ export default function Home() {
             <a href="/join"><button className="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">Get Involved!</button></a>
             <a href="/resources"><button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Community Resources</button></a>
           </div>
+          <h1 className="title-font font-bold sm:text-4xl text-3xl mt-4 mb-4 font-medium text-gray-900">Latest from TRAC
+          </h1>
+          <InstagramEmbed/>
         </div>
       </div>
     </section>
