@@ -7,8 +7,7 @@ export default function Join() {
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
           <iframe
             src="https://docs.google.com/forms/d/e/1FAIpQLSevsvifLkKEc4EVTmcJX0uwNjdYmUqrH5_fQ1b3cpNZvMbl8w/viewform?embedded=true"
-            width={600}
-            height={800}
+            className="h-[840px] w-full"
           >
             Loading…
           </iframe>
