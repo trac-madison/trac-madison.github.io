@@ -33,7 +33,7 @@ export default function About() {
           <h1 className="title-font font-bold sm:text-4xl text-3xl mb-4 font-medium text-gray-900">FAQ</h1>
           <p className="mb-8 leading-relaxed">
             <span className="font-bold font-geist-sans">How can I get Involved?</span> <br/>
-            TRAC's general membership meeting is on the 3rd Saturday of every month at the
+            TRAC's general membership meeting is on the last Saturday of every month at the
             Madison Central Branch library. Come meet us there, or send us a message on 
             {" "}<a className="text-emerald-700 hover:text-emerald-800" href="https://www.instagram.com/madisontrac/">Instagram</a>{" "}
             to get in contact sooner!
