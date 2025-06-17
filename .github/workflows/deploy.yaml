@@ -36,6 +36,7 @@ jobs:
           INPUT_SCHEMA: ./calendar-schema.json
           INPUT_JSONS: ./public/events.json
   build:
+    needs: validate-calendar
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
