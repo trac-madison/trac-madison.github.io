@@ -91,7 +91,7 @@ export default function Resources() {
             <ListItem href="https://www.madisonstreetmedicine.org/" title="Madison Street Medicine">
               Provides healthcare to those experiencing housing insecurity.
             </ListItem>
-            <ListItem href="https://opencollective.com/trans-medical-mutual-aid" title="Trans Medical Mutual Aid">
+            <ListItem href="https://www.transfolx.com/" title="Trans Medical Mutual Aid">
               Assists individuals through gender affirming care through providing classes on 
               wound care and recovery, arranging medical rides, and scheduling meal delivery.
             </ListItem>
