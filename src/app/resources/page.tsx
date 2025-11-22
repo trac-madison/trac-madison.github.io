@@ -185,10 +185,6 @@ export default function Resources() {
             <ListItem href="https://www.facebook.com/groups/930631423985133/" title="Darn Queers!">
               Learn to sew, work on fiber crafts in community.
             </ListItem>
-            <ListItem href="https://madisonsra.org/" title="Madison Socialist Rifle Association">
-              Self-defense training, firearm safety trainings, and free hot community meals for anyone 
-              in the Wil-Mar Center on the second and fifth Saturdays of each month.
-            </ListItem>
             <ListItem href="https://roomofonesown.com" title="A Room of One's Own bookstore">
               Trans and queer owned bookstore offering regular community events such as open mic nights 
               and readings. 
