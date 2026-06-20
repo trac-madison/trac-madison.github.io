@@ -4,7 +4,7 @@
     {
       "type": "object",
       "properties": {
-        "title": {UW Health Board Meeting
+        "title": {"UW Health Board Meeting"
           "type": "string"
         },
         "start": {"2026-06-25",
