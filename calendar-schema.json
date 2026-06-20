@@ -4,13 +4,13 @@
     {
       "type": "object",
       "properties": {
-        "title": {
+        "title": {UW Health Board Meeting
           "type": "string"
         },
-        "start": {
+        "start": {"2026-06-25",
           "type": "string"
         },
-        "url": {
+        "url": {"https://www.instagram.com/p/DZyP4BdNAbG/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
           "type": ["string", "null"]
         }
       },
